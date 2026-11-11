@@ -7,11 +7,8 @@ A placa lê seis sensores uma vez por minuto, grava tudo em um cartão microSD e
 leitura por rede celular 4G para uma planilha do Google. A gravação no cartão é
 independente do envio: se a rede cair, o dado não é perdido.
 
-- **Autor:** Erik Luiz Dullius Carneiro — bolsista de hardware
-- **Coordenação:** Prof. Paulo Cesar
+- **Autor:** Erik Luiz Dullius Carneiro
 - **Linguagem:** C++ (Arduino)
-- **Revisão:** 6
-
 ---
 
 ## Hardware
