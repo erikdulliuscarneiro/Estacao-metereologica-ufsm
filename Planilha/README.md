@@ -4,13 +4,11 @@ Script em Google Apps Script que recebe as leituras da estação meteorológica
 automática por HTTP e grava cada uma como uma linha em uma planilha do Google
 Sheets.
 
-É a outra metade do projeto: o firmware da placa monta a URL com os valores
+É a outra metade do projeto: o firmware ou código da placa monta a URL com os valores
 medidos e chama este script, que escreve a linha na planilha.
 
-- **Autor:** Erik Luiz Dullius Carneiro — bolsista de hardware
-- **Coordenação:** Prof. Paulo Cesar
+- **Autor:** Erik Luiz Dullius Carneiro
 - **Linguagem:** JavaScript (Google Apps Script)
-- **Instituição:** UFSM — Campus Cachoeira do Sul — programa RS Talentos
 
 ---
 
